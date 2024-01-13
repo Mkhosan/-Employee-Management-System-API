@@ -1,0 +1,1 @@
+The Employee Management System is a Spring Boot-based RESTful API for managing employee information within an organization. The API supports CRUD operations for employee records and provides endpoints for retrieving salary information.
